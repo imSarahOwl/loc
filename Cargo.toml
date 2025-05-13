@@ -2,12 +2,10 @@
 name = "loc"
 version = "0.1.0"
 edition = "2024"
-
 authors = ["imSarahOwl <sarah@missowl.xyz>"]
-
 license = "GPL-3.0-only"
-
 description = "a simple rust utility to check how many lines of code a program has"
+readme = "README.md"
 
 [dependencies]
 anyhow = "1.0.98"
